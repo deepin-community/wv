@@ -1,0 +1,3 @@
+version=3
+
+http://www.abisource.com/downloads/wv/(\d+\.\d+\.\d+)/wv-(\d+\.\d+\.\d+).tar.gz
